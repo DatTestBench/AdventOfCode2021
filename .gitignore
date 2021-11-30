@@ -348,3 +348,5 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/.idea/.idea.AdventOfCode2021.dir/.idea/.gitignore
+/.idea/.idea.AdventOfCode2021.dir/.idea/encodings.xml
